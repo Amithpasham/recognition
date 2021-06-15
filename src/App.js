@@ -36,7 +36,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Text</h1>
+      {/* <h1>Text</h1> */}
       <h4>Score: {score}</h4>
       {result ? (
         <div>{result}</div>
